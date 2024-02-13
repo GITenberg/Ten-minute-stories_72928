@@ -1,0 +1,31 @@
+_repo: Ten-minute-stories_72928
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: https://en.wikipedia.org/wiki/Algernon_Blackwood
+description: ''
+gutenberg_issued: '2024-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72928'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.aa0016512006
+pgterms:marc905: 20230206225503blackwood
+pgterms:marc906: '1914'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bJohn Murray, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ten minute stories
+url: http://www.gutenberg.org/ebooks/72928
